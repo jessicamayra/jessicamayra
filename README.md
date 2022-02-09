@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, Javascript, CSS, Python, android 
 - 🌱 I’m currently learning  HTML, Java, CSS
 - 💞️ I’m looking to collaborate on dev front end
-- 📫 How to reach me ...
+- 📫 How to reach me  www.linkedin.com/in/jéssica-mayra
 
 <!---
 jessicamayra/jessicamayra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
